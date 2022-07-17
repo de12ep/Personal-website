@@ -1,0 +1,61 @@
+.top-cointainer{
+    background-color: #EAF6F6;
+     
+}
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Hammersmith One', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Sacramento', cursive;
+}
+h1{
+    color: #54c3c3;
+    margin: 0px;
+    font-size: 60px;
+}
+.web{
+    width: 180px;
+    height: 180px;
+}
+    
+.code{
+    width: 180px;
+    height: 180px;
+    
+}
+.photo{
+    width: 180px;
+    height: 180px;
+
+}
+.bottom-cointainer{
+    background-color: #EAF6F6;
+     margin: 0;
+}
+p{
+    font-size: 20px;
+
+}
+h2{
+    color: #54c3c3;
+}
+h3{
+    color: #54c3c3;
+}
+.skill-row{
+    width: 50%;
+    margin: auto;
+    border: 100px auto 100px auto;
+    line-height: 2;
+
+}
+hr{
+    background-color: transparent;
+    border-style: none  ;
+    border-top-style: dotted;
+    border-color: rgb(212, 198, 198);
+    border-width: 8px;
+    width: 10%;
+  
+  }
